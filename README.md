@@ -1,6 +1,9 @@
 # Go Package Installer
 
-Version: **0.0.1**
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/steficalde/go-package-installer?include_prereleases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/steficalde/go-package-installer)](https://goreportcard.com/report/github.com/steficalde/go-package-installer)
+[![Go Reference](https://pkg.go.dev/badge/github.com/steficalde/go-package-installer.svg)](https://pkg.go.dev/github.com/steficalde/go-package-installer)
+
 
 ## What is it?
 Go Package Installer is a tool for installing Go packages on your project.
