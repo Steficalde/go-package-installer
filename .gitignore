@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# Editor
+.idea/*
+.vscode/*
+
+# Terminal
+.DS_Store
