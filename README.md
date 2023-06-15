@@ -14,15 +14,20 @@ Get the package from the GitHub repository.
 go get -u github.com/steficalde/go-package-installer
 ```
 
+Install the package.
+```
+go install github.com/steficalde/go-package-installer
+```
+
 ## Usage
 ### Command
 ```
-go run install.go [-i inputDir] [-o outputDir] <package>
+go-package-installer [-i inputDir] [-o outputDir] <package>
 ```
 
 ### Example
 ```
-go run install.go -i internal -o install github.com/user/package"
+go-package-installer -i internal -o install github.com/user/package
 ```
 
 ### Options
